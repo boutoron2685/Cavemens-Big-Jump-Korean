@@ -17,7 +17,7 @@
 	</stage>
 	<stage src="(\#).cbjstg" bgm="game_image40.ogg" vol="192">
 		<title lang="en">\#.Grassland of Starry</title>
-		<title lang="ja">\\#.별빛의 대초원</title>
+		<title lang="ja">\#.별빛의 대초원</title>
 	</stage>
 	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
 		<title lang="en">\#.Grassland of Endless</title>
