@@ -1,0 +1,32 @@
+<drama>
+	<stage src="(9).cbjstg" x="23" y="1"/>
+	<bgm src="aged_forest.ogg" vol="160"/>
+	<put type="Caveman" id="cm1" x="28" y="3" dir="r"/>
+	<put type="Caveman" id="cm2" x="25" y="3" dir="r"/>
+	<put type="Caveman" id="cm3" x="23" y="3" dir="r"/>
+	<put type="Caveman" id="cm4" x="19" y="4" dir="r"/>
+	<put type="Caveman" id="cm5" x="16" y="4" dir="r"/>
+	<put type="Caveman" id="cm6" x="14" y="4" dir="r"/>
+	
+	<fadein/>
+	
+	<talk sbj="cm1">
+		<en>Oops... Brothers, it's cold</en>
+		<ja>으으...형제들, 너무 춥다</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>It's so cold that there may not be any barbarians ahead of us</en>
+		<ja>이만큼 추우면 이 앞에 오랑캐는 없을지도 몰라</ja>
+	</talk>
+	<turn sbj="cm1"/>
+	<talk sbj="cm1">
+		<en>They are naked</en>
+		<ja>걔네들은 알몸이거든</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>I don't know...</en>
+		<ja>몰라 그딴거...</ja>
+	</talk>
+	
+	<fadeout/>
+</drama>

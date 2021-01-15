@@ -1,0 +1,94 @@
+EXCEPTION, 예외
+UNKNOWN_EXCEPTION, 알 수 없는 예외
+INVALID_ADV_DATA, 광고 데이터가 잘못되었습니다
+TR_PERCENT_PASSED, 퍼센트 기호를 사용하지 마십시오
+TR_CHAR_AFT_SCD_DQT, "큰따옴표를 닫은 후 입력할 수 있는 것은 공백, 쉼표, 줄바꿈 뿐입니다."
+TR_NO_SCD_DQT, 큰따옴표가 닫혀있지 않습니다
+TR_NOT_INT, 정수 값 중에 정수가 아닌 값이 있습니다 
+TR_NOT_DBL, 소수 값 중에 소수가 아닌 값이 있습니다 
+TR_LOG_IS_HERE, """{text_path}""읽기에 실패했습니다. (상세：""{log_path}"")"
+CHANGE_DIR, 방향전환[D]
+LOAD_FILE_ERR, 읽어내려던 파일에 문제가 발생했습니다
+ERR, 에러
+GAME_TITLE, Cavemen's Big Jump
+FROM_LEFT, 좌측에서
+FROM_RIGHT, 우측에서
+QTY_0, 없음
+QTY_1, 조금
+QTY_2, 보통
+QTY_3, 많음
+QTY_4, 매우많음
+DTY_1, 쉬움
+DTY_2, 보통
+DTY_3, 어려움
+DTY_4, 매우어려움
+ENEMY_SPEED, 적의 속도
+ENEMY_SPD_NORMAL, 보통
+ENEMY_SPD_LITTLE_FAST, 조금빠름
+ENEMY_SPD_FAST, 빠름
+ENEMY_SPD_VERY_FAST, 매우빠름
+SCENARIO_SELECT, 시나리오 선택
+EDIT_MODE, 레벨 에디터
+CONFIG, 설정
+EXIT, 나가기
+NEW_GAME, 새 게임
+CONTINUE, 이어하기
+KEY_CHECK, 동시입력확인
+KEY1, 키보드
+PAD1, 게임패드1
+PAD2, 게임패드2
+PAD3, 게임패드3
+PAD4, 게임패드4
+RESETUP_PAD, 패드 재인식
+BACK, 뒤로
+KEY_CHECK_DESC1, "키보드 키는 동시에 누르는 조합에 따라, 올바르게 인식이 안될 수 있습니다."
+KEY_CHECK_DESC2, "여기서 동시에 누를 수 있느 조합을 확인해, 어떤 키에 할당할지 참고해 주십시오."
+KEY_CHECK_DESC3, (마우스 우클릭으로 종료)
+KEY_CHECK_PUSHED, {key_name}키 입력됨
+CTRLR_CONF_HOW_TO_CANCEL, 취소하려면 마우스 우클릭
+CTRLR_LEFT, 좌
+CTRLR_RIGHT, 우
+CTRLR_UP, 상
+CTRLR_DOWN, 하
+CTRLR_JUMP, 점프/결정
+CTRLR_DASH, 질주/취소
+CTRLR_THUNDER, 번개공격
+CTRLR_CH_CAM, 카메라 전환
+CTRLR_PAUSE, 일시정지
+WAIT_FOR_ANY_KEY, 아무 키나 눌러주세요
+PRESET1, 프리셋1
+PRESET2, 프리셋2
+OK, 확인
+CANCEL, 취소
+NEXT, 다음
+PREV, 이전
+BACK, 뒤로
+TO_TOP, 메인으로
+RESUME, 게임재개
+WATCH_STAGE, 스테이지 확인
+BACK_TO_TITLE, 타이틀로
+WATCH_STAGE_DSC, "마우스 오른쪽 클릭한 채 드래그 시 카메라 이동, 광고 이외 공간을 왼쪽 클릭 또는 질주/취소 버튼 클릭 시 돌아갑니다."
+BACK_TO_TITLE_CONFIRM, 정말로 나가시겠습니까?
+YES, 예
+NO, 아니오
+SAVE_AS, 새이름으로 저장
+EDIT_SAVE_MSG, 저장완료
+EDIT_LOAD_MSG, 읽기완료
+EDIT_SQW, 가로: {num}
+EDIT_SQH, 세로: {num}
+EDIT_SQSUM, 합계: {num}/{max}
+MAP_SIZE_TOO_LARGE, 맵 크기가 너무 큽니다!
+MAP_WIDTH_TOO_SMALL, 맵의 폭이 너무 작습니다!
+MAP_EVENT_TOO_MANY, 배치된 캐릭터의 할당량을 초과했습니다!
+START_POS_NOT_SET, 시작지점이 지정되지 않았습니다!
+GOAL_NOT_SET, 도착지점이 지정되지 않았습니다!
+CANT_REACH_GOAL_FOR_ENEMY, 적이 가까이 있습니다! 5초뒤에 다시 오세요!
+ENEMY_ZONE_TOO_MANY, 지정된 적 구역이 너무 많습니다!
+DRAMA_OVER_MSG_MAX, 대사 글자수가 초과했습니다
+CANT_FIND_DRAMA_TAG, <drama>을 찾을 수 없습니다
+STAGE_NOT_LOADED, <stage>가 지정되엉 있지 않습니다
+CANT_FIND_ENDROLL_TAG, <endrole>을 찾을 수 없습니다
+ENDROLL_DEF_NO_STG, stage속성은 <endroll>이 필수속성입니다
+SAVED, 저장완료
+TO_WINDOW_MODE, 창모드
+TO_FULLSCREEN, 전체화면

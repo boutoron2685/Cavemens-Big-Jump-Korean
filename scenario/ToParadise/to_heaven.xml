@@ -1,0 +1,66 @@
+<drama>
+	<stage src="(21).cbjstg" x="82" y="5"/>
+	<bgm src="aged_forest.ogg" vol="160"/>
+	<put type="Caveman" id="cm1" x="88" y="5" dir="l"/>
+	<put type="Caveman" id="cm2" x="79" y="6" dir="r"/>
+	<put type="Caveman" id="cm3" x="91" y="4" dir="l"/>
+	<put type="Caveman" id="cm4" x="77" y="5" dir="r"/>
+	<put type="Caveman" id="cm5" x="74" y="5" dir="r"/>
+	<put type="Caveman" id="cm6" x="72" y="5" dir="r"/>
+	
+	<fadein/>
+	
+	<talk sbj="cm1">
+		<en>I can ride on this cloud!</en>
+		<ja>이 구름, 탈 수 있어!</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>Clouds can carrie us...</en>
+		<ja>구름을 탈 수 있구나...</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>I'm glad I came out of the cave</en>
+		<ja>동굴 밖으로 나오니 개운하구만</ja>
+	</talk>
+	<talk sbj="cm3">
+		<en>Hey, let's climb clouds and go up to the sky</en>
+		<ja>그럼, 이 구름을 타고 하늘로 올라가지 않을래?</ja>
+	</talk>
+	<talk sbj="cm3">
+		<en>I bet we have a good view!</en>
+		<ja>전망이 좋을거 같은데!</ja>
+	</talk>
+	<turn sbj="cm2"/>
+	<talk sbj="cm4">
+		<en>Stop!</en>
+		<ja>안돼!</ja>
+	</talk>
+	<talk sbj="cm4">
+		<en>I'm afraid of heights!</en>
+		<ja>난 고소공포증이 있다고!</ja>
+	</talk>
+	<talk sbj="cm4">
+		<en>Besides, our aim is a new world!</en>
+		<ja>게다가, 우리 목적은 새로운 세상이잖아!</ja>
+	</talk>
+	<talk sbj="cm5">
+		<en>No, it might be a good idea</en>
+		<ja>아니, 좋은 생각일 수도</ja>
+	</talk>
+	<turn sbj="cm4"/>
+	<talk sbj="cm5">
+		<en>Sights from the sky would help us find a new world</en>
+		<ja>하늘에 있다면, 새로운 세상을 찾을 수 있어</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>OK, Let's go!</en>
+		<ja>그럼, 가자고!</ja>
+	</talk>
+	<turn sbj="cm4"/>
+	<talk sbj="cm4">
+		<en>It's no use... I will endure</en>
+		<ja>어쩔 수 없지...내가 참을게</ja>
+	</talk>
+	
+	<fadeout/>
+</drama>

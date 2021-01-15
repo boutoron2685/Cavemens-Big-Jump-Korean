@@ -1,0 +1,68 @@
+<drama>
+	<stage src="opening.cbjstg" x="12" y="7"/>
+	<bgm src="aged_forest.ogg" vol="160"/>
+	<put type="Caveman" id="cm1" x="4" y="8" dir="r"/>
+	<put type="Caveman" id="cm2" x="8" y="10" dir="r"/>
+	<put type="Caveman" id="cm3" x="11" y="10" dir="r"/>
+	<put type="Caveman" id="cm4" x="15" y="9" dir="r"/>
+	
+	<fadein/>
+	<put type="Caveman" id="cm5" x="18" y="9" dir="l"/>
+	<enter sbj="cm5"/>
+	<talk sbj="cm5">
+		<en>Everyone, Terrible thig happened!</en>
+		<ja>모두들, 큰일이다!</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Brother, what happened in such a hurry?</en>
+		<ja>왜 그러래, 형제?</ja>
+	</talk>
+	<talk sbj="cm5">
+		<en>Barbarians hit our brothers and took them away!</en>
+		<ja>야만인들이 형제들을 습격해서 납치해갔어!</ja>
+	</talk>
+	<talk sbj="cm4">
+		<en>What!?</en>
+		<ja>뭐라고!?</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>We can't stay here</en>
+		<ja>이대로 서 있을순 없지</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>We have to go help!</en>
+		<ja>구하러 가야해!</ja>
+	</talk>
+	<talk sbj="cm5">
+		<en>Brothers were took away to the cave beyond...</en>
+		<ja>형제들은 초원 너머, 산 너머의</ja>
+	</talk>
+	<talk sbj="cm5">
+		<en>snowland beyond mountains beyond grassland</en>
+		<ja>설원의 동굴로 끌려간거 같아</ja>
+	</talk>
+	<talk sbj="cm3">
+		<en>But can five people win the barbarians?</en>
+		<ja>허나, 다섯명 만으로 야만인들을 무찌를 수 있을지...</ja>
+	</talk>
+	<talk sbj="cm5">
+		<en>Some of my brothers were left behind on the way</en>
+		<ja>형제들 일부는 아직 남아있을 거야</ja>
+	</talk>
+	<talk sbj="cm3">
+		<en>You say, if we rescue them, they will help us</en>
+		<ja>그럼 구출한다면, 힘이 되어 준다는 말인거구만</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Well, then we're headed for rescue!</en>
+		<ja>좋아, 그럼 구출하러 가자고!</ja>
+	</talk>
+	<leave sbj="cm1"/>
+	<leave sbj="cm2"/>
+	<leave sbj="cm3"/>
+	<leave sbj="cm4"/>
+	<leave sbj="cm5"/>
+	<leave sbj="cm5"/>
+	
+	<fadeout/>
+</drama>

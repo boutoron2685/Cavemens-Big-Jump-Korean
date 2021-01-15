@@ -1,0 +1,55 @@
+<drama>
+	<stage src="(5).cbjstg" x="462" y="12"/>
+	<bgm src="aged_forest.ogg" vol="160"/>
+	<put type="Caveman" id="cm1" x="471" y="15" dir="l"/>
+	<put type="Caveman" id="cm2" x="466" y="14" dir="r"/>
+	<put type="Caveman" id="cm3" x="463" y="13" dir="r"/>
+	<put type="Caveman" id="cm4" x="461" y="13" dir="r"/>
+	<put type="Caveman" id="cm5" x="458" y="12" dir="r"/>
+	<put type="Caveman" id="cm5" x="455" y="12" dir="r"/>
+	
+	<fadein/>
+	
+	<talk sbj="cm1">
+		<en>Brothers, Barbarian's mining site is just ahead</en>
+		<ja>형제들, 이 앞에 야만인 채굴장이 있어</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Camera change would be useful when going deep underground</en>
+		<ja>카메라 전환이 지하 깊이 들어갈 때 도움이 될 거야</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>If you don't know how to operate, you can refer to config</en>
+		<ja>조작방법을 모른다면, 옵션에서 확인 하면 돼</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>I heard good things</en>
+		<ja>좋은 걸 들었군</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Also, the cave has a low ceiling</en>
+		<ja>그리고, 동굴 천장이 낮아서</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Dash, crouch and Jump!</en>
+		<ja>질주하고 앉기 그리고 점프!</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>This would be usefull when going through underground</en>
+		<ja>이 조작이 동굴을 지나가기 위한 공략이다</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Dash, crouch and Jump!</en>
+		<ja>질주하고 앉기 그리고 점프!</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Don't forget it</en>
+		<ja>기억해 두라고</ja>
+	</talk>
+	<talk sbj="cm4">
+		<en>Interminable talk!</en>
+		<ja>말이 길어!</ja>
+	</talk>
+	
+	<fadeout/>
+</drama>

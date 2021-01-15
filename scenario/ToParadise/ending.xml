@@ -1,0 +1,78 @@
+<drama>
+	<stage src="to_heaven.cbjstg" x="10" y="2"/>
+	<bgm src="game_image33.ogg" vol="192"/>
+	<put type="Caveman" id="cm1" x="2" y="1" dir="l"/>
+	<put type="Caveman" id="cm2" x="6" y="2" dir="l"/>
+	<put type="Caveman" id="cm3" x="9" y="2" dir="l"/>
+	<put type="Caveman" id="cm4" x="12" y="3" dir="l"/>
+	<put type="Caveman" id="cm5" x="15" y="3" dir="l"/>
+	<put type="Caveman" id="cm6" x="19" y="4" dir="l"/>
+	
+	<fadein/>
+	
+	<talk sbj="cm1">
+		<en>I was surprised...</en>
+		<ja>놀라운걸...</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>There's a ground in the sky!</en>
+		<ja>하늘에 대지가 서있다니!</ja>
+	</talk>
+	<turn sbj="cm1"/>
+	<talk sbj="cm1">
+		<en>Brothers, I have a suggestion</en>
+		<ja>형제들, 제안이 있어</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>I already know</en>
+		<ja>알고있어</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>You think this is our new world</en>
+		<ja>여기가 우리의 새로운 세상이란 거겠지</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Yes it is</en>
+		<ja>그래</ja>
+	</talk>
+	<talk sbj="cm4">
+		<en>I disagree!</en>
+		<ja>난 반대야!</ja>
+	</talk>
+	<talk sbj="cm4">
+		<en>I feel breathless here and I'm afraid of heights!</en>
+		<ja>여긴 숨쉬기도 힘들고, 난 고소공포증있다고!</ja>
+	</talk>
+	<talk sbj="cm3">
+		<en>I agree with the suggestion</en>
+		<ja>난 찬성이야</ja>
+	</talk>
+	<talk sbj="cm3">
+		<en>Barbarians will not come here</en>
+		<ja>여기라면 야만인도 안올거야</ja>
+	</talk>
+	<turn sbj="cm4"/>
+	<talk sbj="cm5">
+		<en>I like the view</en>
+		<ja>여기 경치가 마음에 드네</ja>
+	</talk>
+	<talk sbj="cm6">
+		<en>I ate the cloud and it was delicious</en>
+		<ja>아까 구름 먹어봤는데 맛있더라</ja>
+	</talk>
+	<turn sbj="cm4"/>
+	<talk sbj="cm4">
+		<en>Then... I agree with you</en>
+		<ja>그럼...나도 찬성해야겠구만</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>This case was sewn up</en>
+		<ja>결정났군</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>This is our new world!</en>
+		<ja>여기가 우리 새로운 세상이란걸!</ja>
+	</talk>
+	
+	<fadeout/>
+</drama>

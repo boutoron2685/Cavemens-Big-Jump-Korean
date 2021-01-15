@@ -1,0 +1,140 @@
+<drama>
+	<stage src="(19).cbjstg" x="138" y="3"/>
+	<bgm src="aged_forest.ogg" vol="160"/>
+	<put type="Caveman" id="cm1" x="132" y="1" dir="l"/>
+	<put type="Caveman" id="cm2" x="136" y="1" dir="l"/>
+	<put type="Caveman" id="cm3" x="139" y="1" dir="l"/>
+	<put type="Caveman" id="cm4" x="134" y="5" dir="l"/>
+	<put type="Caveman" id="cm5" x="137" y="5" dir="l"/>
+	<put type="Caveman" id="cm6" x="130" y="3" dir="l"/>
+	
+	<fadein/>
+	
+	<talk sbj="cm1">
+		<en>Look, barbarians will come</en>
+		<ja>저기, 야만인들이 몰려온다</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>Although we've defeated so many barbarians...</en>
+		<ja>야만인들을 그렇게나 해치웠는데 아직도...</ja>
+	</talk>
+	<talk sbj="cm6">
+		<en>It just goes on forever</en>
+		<ja>이래선 끝이 없어</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Anyway, let's get out of here</en>
+		<ja>어쨌든, 여기서 빠져나가야해</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>That's right</en>
+		<ja>찬성이야</ja>
+	</talk>
+	<leave sbj="cm1"/>
+	<leave sbj="cm2"/>
+	<leave sbj="cm3"/>
+	<leave sbj="cm4"/>
+	<leave sbj="cm5"/>
+	<leave sbj="cm6"/>
+	
+	<fadeout/>
+	
+	<stage src="(20).cbjstg" x="1" y="8"/>
+	<put type="Caveman" id="cm1" x="2" y="11" dir="r"/>
+	<put type="Caveman" id="cm2" x="-1" y="11" dir="r"/>
+	<put type="Caveman" id="cm3" x="-3" y="11" dir="r"/>
+	<put type="Caveman" id="cm4" x="-6" y="11" dir="r"/>
+	<put type="Caveman" id="cm5" x="-8" y="11" dir="r"/>
+	<put type="Caveman" id="cm6" x="-10" y="11" dir="r"/>
+	<put type="BarbarianBro" id="bb1" x="10" y="11" dir="l"/>
+	
+	<fadein/>
+	
+	<talk sbj="cm1">
+		<en>There is a barbarian over there!</en>
+		<ja>저기 야만인이 있다!</ja>
+	</talk>
+	<talk sbj="cm4">
+		<en>Defeat him!</en>
+		<ja>죽여버려!</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>Please, wait</en>
+		<ja>잠깐, 기다려</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>The barbarian spoke!</en>
+		<ja>야만인이 말을한다!</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>I am a barbarian human rights activist</en>
+		<ja>나는 야만인 인권운동가다</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>I disagree eating cavemen</en>
+		<ja>난 원시인을 먹는건 반대했다고</ja>
+	</talk>
+	<talk sbj="cm3">
+		<en>What? Have barbarians ate our brothers!?</en>
+		<ja>뭐? 우리 형제를 먹었다고!?</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>I've heared you are looking for a new world</en>
+		<ja>너희들이 새로운 세상을 찾는다 들었다</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>I recommend you to cross Mt.Shikabane</en>
+		<ja>그럼 시카바네 산을 넘어가라</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Mt.Shikabane!?</en>
+		<ja>시카바네 산!?</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>It's to steep for us to cross</en>
+		<ja>우리가 건너가기엔 험난해</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>But you could cross it</en>
+		<ja>너희들이라면 건널 수 있을거다</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>I heard good things</en>
+		<ja>좋은 걸 들었구만</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>There's a good man in barbarians</en>
+		<ja>야만인 중에도 좋은 사람이 있을줄이야</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>I hope someday we understand each other</en>
+		<ja>난 언젠가 서로 알게되는 시간이 왔으면 좋겠군</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>Me too</en>
+		<ja>나도 그래</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>However it isn't the time now</en>
+		<ja>하지만, 지금은 아니야</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>I believe the next generation would make peace</en>
+		<ja>다음 세대들이 이 평화라는 과제를 풀어주길 바래</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>Till the time has come, the moutain separate us</en>
+		<ja>그 때까진, 산은 우릴 갈라 놓겠지</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>I think so too</en>
+		<ja>나도 그래</ja>
+	</talk>
+	<talk sbj="bb1">
+		<en>Then, I wish you good luck</en>
+		<ja>그럼, 행운을 빈다</ja>
+	</talk>
+	<leave sbj="bb1"/>
+	
+	<fadeout/>
+</drama>

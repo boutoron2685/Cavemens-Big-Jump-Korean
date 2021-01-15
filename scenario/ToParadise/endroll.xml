@@ -1,0 +1,122 @@
+<endroll stage="endroll.cbjstg" bgm="sunset_twilight.ogg" vol="128">
+	<credit>
+		<en>
+			<role></role>
+			<name>Staff</name>
+		</en>
+		<ja>
+			<role></role>
+			<name>스태프</name>
+		</ja>
+	</credit>
+	<credit>
+		<en>
+			<role>Planning</role>
+			<name>Kyokz</name>
+		</en>
+		<ja>
+			<role>기획</role>
+			<name>Kyokz</name>
+		</ja>
+	</credit>
+	<credit>
+		<en>
+			<role>Programming</role>
+			<name>Kyokz</name>
+		</en>
+		<ja>
+			<role>프로그래밍</role>
+			<name>Kyokz</name>
+		</ja>
+	</credit>
+	<credit>
+		<en>
+			<role>Graphic</role>
+			<name>Kyokz</name>
+		</en>
+		<ja>
+			<role>그래픽</role>
+			<name>Kyokz</name>
+		</ja>
+	</credit>
+	<credit>
+		<en>
+			<role>BGM (Stock)</role>
+			<name>DOVA-SYNDROME</name>
+		</en>
+		<ja>
+			<role>BGM (소재)</role>
+			<name>DOVA-SYNDROME</name>
+		</ja>
+	</credit>
+	<credit>
+		<en>
+			<role>SE</role>
+			<name>Kyokz</name>
+		</en>
+		<ja>
+			<role>SE</role>
+			<name>Kyokz</name>
+		</ja>
+	</credit>
+	<credit>
+		<en>
+			<role>SE (Stock)</role>
+			<name>soundeffect-lab</name>
+		</en>
+		<ja>
+			<role>SE (소재)</role>
+			<name>soundeffect-lab</name>
+		</ja>
+	</credit>
+	<credit>
+		<en>
+			<role>SE (Stock)</role>
+			<name>On-Jin</name>
+		</en>
+		<ja>
+			<role>SE (소재)</role>
+			<name>On-Jin</name>
+		</ja>
+	</credit>
+	<credit>
+		<en>
+			<role>Voice (Stock)</role>
+			<name>Basutabu</name>
+		</en>
+		<ja>
+			<role>목소리 (소재)</role>
+			<name>Basutabu</name>
+		</ja>
+	</credit>
+	<credit>
+		<en>
+			<role>Voice (Stock)</role>
+			<name>Wingless Seraph</name>
+		</en>
+		<ja>
+			<role>목소리 (소재)</role>
+			<name>Wingless Seraph</name>
+		</ja>
+	</credit>
+	<credit>
+		<en>
+			<role>Effect (Stock)</role>
+			<name>bozen.web.fc2.com</name>
+		</en>
+		<ja>
+			<role>효과 (소재)</role>
+			<name>bozen.web.fc2.com</name>
+		</ja>
+	</credit>
+	<credit>
+		<en>
+			<role></role>
+			<name>The End</name>
+		</en>
+		<ja>
+			<role>끝</role>
+			<name>한글패치(간케)</name>
+		</ja>
+	</credit>
+</endroll>

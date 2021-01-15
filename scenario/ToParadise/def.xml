@@ -1,0 +1,101 @@
+<scenario lives="6">
+	<title lang="en">To New World!</title>
+	<title lang="ja">새로운 세상으로!</title>
+	
+	<drama src="opening.xml"/>
+	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
+		<title lang="en">\#.Grassland of Begining</title>
+		<title lang="ja">\#.시작의 대초원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
+		<title lang="en">\#.Grassland of Early Afternoon</title>
+		<title lang="ja">\#.한낮의 대초원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="sunset_story.ogg" vol="192">
+		<title lang="en">\#.Grassland of Twilight</title>
+		<title lang="ja">\#.해질녘의 대초원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="game_image40.ogg" vol="192">
+		<title lang="en">\#.Grassland of Starry</title>
+		<title lang="ja">\\#.별빛의 대초원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
+		<title lang="en">\#.Grassland of Endless</title>
+		<title lang="ja">\#.끝없는 대초원</title>
+	</stage>
+	<drama src="into_cave.xml"/>
+	<stage src="(\#).cbjstg" bgm="morning_in_cave.ogg" vol="224">
+		<title lang="en">\#.To Underground!</title>
+		<title lang="ja">\#.땅속으로!</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="moomoo.ogg" vol="192">
+		<title lang="en">\#.Cave of Bottomless</title>
+		<title lang="ja">\#.바닥이 없는 동굴</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="moomoo.ogg" vol="192">
+		<title lang="en">\#.Cave of Needles</title>
+		<title lang="ja">\#.바늘투성이 동굴</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="morning_in_cave.ogg" vol="224">
+		<title lang="en">\#.To Ground!</title>
+		<title lang="ja">\#.지상으로!</title>
+	</stage>
+	<drama src="to_snowland.xml"/>
+	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
+		<title lang="en">\#.Snowland across Cave</title>
+		<title lang="ja">\#.동굴에서 나가니 대설원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="sunset_story.ogg" vol="192">
+		<title lang="en">\#.Run! Snowland of Sunset</title>
+		<title lang="ja">\#.달려라!석양의 대설원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="game_image40.ogg" vol="192">
+		<title lang="en">\#.Barserkers in the Dark Night</title>
+		<title lang="ja">\#.어두운 밤의 광전사</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
+		<title lang="en">\#.Jump Man in Snowland</title>
+		<title lang="ja">\#.설원의 점프맨</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
+		<title lang="en">\#.Macho Man in Snowland</title>
+		<title lang="ja">\#.설원의 마초맨</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="moomoo.ogg" vol="192">
+		<title lang="en">\#.Cave of Stray</title>
+		<title lang="ja">\#.동굴미아</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="moomoo.ogg" vol="192">
+		<title lang="en">\#.Cave of Ordeal</title>
+		<title lang="ja">\#.시련의 동굴</title>
+	</stage>
+	<drama src="to_village.xml"/>
+	<stage src="(\#).cbjstg" bgm="sunset_story.ogg" vol="192">
+		<title lang="en">\#.Welcome to Barbarian Country</title>
+		<title lang="ja">\#.야만인의 나라에 온걸 환영합니다</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="game_image40.ogg" vol="192">
+		<title lang="en">\#.Assault! Barbarian Village</title>
+		<title lang="ja">\#.돌격! 야만인의 마을</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
+		<title lang="en">\#.Immortal Barbarian Castle</title>
+		<title lang="ja">\#.난공불락 야만인의 성</title>
+	</stage>
+	<drama src="to_mt_shikabane.xml"/>
+	<stage src="(\#).cbjstg" bgm="sunset_story.ogg" vol="192">
+		<title lang="en">\#.Dodge Pursuing</title>
+		<title lang="ja">\#.추격을 따돌리다</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="morning_in_cave.ogg" vol="224" id="shikabane">
+		<title lang="en">\#.Beyond Mt.Shikabane</title>
+		<title lang="ja">\#.시카바네산을 넘어</title>
+		<goal type="black" next="shikabane"/>
+	</stage>
+	<stage src="to_heaven.cbjstg" bgm="aerial_walk.ogg" vol="192">
+		<title lang="en">To Heaven!</title>
+		<title lang="ja">천국으로!</title>
+	</stage>
+	<drama src="ending.xml"/>
+	<endroll src="endroll.xml"/>
+</scenario>

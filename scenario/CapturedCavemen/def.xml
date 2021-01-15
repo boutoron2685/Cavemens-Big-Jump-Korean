@@ -1,0 +1,47 @@
+<scenario lives="5">
+	<title lang="en">Captured Cavemen(Easy)</title>
+	<title lang="ja">붙잡힌 원시인(쉬움)</title>
+	
+	<drama src="opening.xml"/>
+	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
+		<title lang="en">\#.Morning Glassland</title>
+		<title lang="ja">\#.아침 초원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="sunset_story.ogg" vol="192">
+		<title lang="en">\#.Evening Grassland</title>
+		<title lang="ja">\#.노을 진 초원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="game_image40.ogg" vol="192">
+		<title lang="en">\#.Night Grassland</title>
+		<title lang="ja">\#.밤의 초원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
+		<title lang="en">\#.Morning Mountain</title>
+		<title lang="ja">\#.아침 산</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="sunset_story.ogg" vol="192">
+		<title lang="en">\#.Evening Mountain</title>
+		<title lang="ja">\#.노을 진 산</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="game_image40.ogg" vol="192">
+		<title lang="en">\#.Night Mountain</title>
+		<title lang="ja">\#.밤의 산</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
+		<title lang="en">\#.Morning Snowland</title>
+		<title lang="ja">\#.아침 설원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="sunset_story.ogg" vol="192">
+		<title lang="en">\#.Evening Snowland</title>
+		<title lang="ja">\#.노을 설원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="game_image40.ogg" vol="192">
+		<title lang="en">\#.Night Snowland</title>
+		<title lang="ja">\#.밤의 설원</title>
+	</stage>
+	<stage src="(\#).cbjstg" bgm="moomoo.ogg" vol="192">
+		<title lang="en">\#.Captured Cavemen</title>
+		<title lang="ja">\#.붙잡힌 원시인</title>
+	</stage>
+	<drama src="ending.xml"/>
+</scenario>

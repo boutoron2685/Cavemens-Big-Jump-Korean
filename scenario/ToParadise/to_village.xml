@@ -1,0 +1,54 @@
+<drama>
+	<stage src="(17).cbjstg" x="6" y="5"/>
+	<bgm src="aged_forest.ogg" vol="160"/>
+	<put type="Caveman" id="cm1" x="12" y="7" dir="r"/>
+	<put type="Caveman" id="cm2" x="8" y="9" dir="r"/>
+	<put type="Caveman" id="cm3" x="5" y="9" dir="r"/>
+	<put type="Caveman" id="cm4" x="3" y="9" dir="r"/>
+	<put type="Caveman" id="cm5" x="-1" y="9" dir="r"/>
+	<put type="Caveman" id="cm6" x="-3" y="9" dir="r"/>
+	
+	<fadein/>
+	
+	<talk sbj="cm1">
+		<en>Brothers,</en>
+		<ja>형제들,</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>It seems this is barbarian's homeland</en>
+		<ja>아무래도 여기 야만인 본거지인거 같다</ja>
+	</talk>
+	<talk sbj="cm4">
+		<en>What!</en>
+		<ja>뭐라!</ja>
+	</talk>
+	<turn sbj="cm1"/>
+	<turn sbj="cm2"/>
+	<turn sbj="cm3"/>
+	<talk sbj="cm4">
+		<en>How many brothers they killed!</en>
+		<ja>그놈들이 얼마나 많은 형제를 죽인거지!</ja>
+	</talk>
+	<talk sbj="cm4">
+		<en>I will eradicate them!</en>
+		<ja>뿌리뽑고 말겠다!</ja>
+	</talk>
+	<talk sbj="cm3">
+		<en>Calm down</en>
+		<ja>진정해</ja>
+	</talk>
+	<talk sbj="cm3">
+		<en>Don't underestimate number of them</en>
+		<ja>놈들이 얼마나 있는지도 모르잖아</ja>
+	</talk>
+	<talk sbj="cm5">
+		<en>Anyway, we can't avoid here</en>
+		<ja>그렇다고, 이 곳을 피해갈 순 없겠지</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>OK, break through the enemy!</en>
+		<ja>좋아, 뚫고 지나가자!</ja>
+	</talk>
+	
+	<fadeout/>
+</drama>

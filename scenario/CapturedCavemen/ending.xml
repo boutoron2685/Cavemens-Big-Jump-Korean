@@ -1,0 +1,100 @@
+<drama>
+	<stage src="(9).cbjstg" x="333" y="8"/>
+	<bgm src="after_fanfare.mp3" vol="128"/>
+	<put type="Caveman" id="cm1" x="329" y="8" dir="r"/>
+	<put type="Caveman" id="cm2" x="327" y="8" dir="r"/>
+	<put type="Caveman" id="cm3" x="325" y="9" dir="r"/>
+	<put type="Caveman" id="cm4" x="323" y="10" dir="r"/>
+	<put type="Caveman" id="cm5" x="333" y="11" dir="l"/>
+	<put type="Caveman" id="cm6" x="335" y="11" dir="l"/>
+	<put type="Caveman" id="cm7" x="338" y="11" dir="l"/>
+	<put type="Caveman" id="cm8" x="340" y="12" dir="l"/>
+	<put type="Caveman" id="cm9" x="343" y="11" dir="l"/>
+	
+	<fadein/>
+	<talk sbj="cm5">
+		<en>Brothers,</en>
+		<ja>형제,</ja>
+	</talk>
+	<talk sbj="cm5">
+		<en>I was really saved</en>
+		<ja>죽다 살아났어</ja>
+	</talk>
+	<talk sbj="cm5">
+		<en>Thank you</en>
+		<ja>고마워</ja>
+	</talk>
+	<talk sbj="cm6">
+		<en>I now owe you one</en>
+		<ja>빚을 지게 만들었구만</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Don't mind</en>
+		<ja>신경쓰지말어</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>I just did the right thing as a brother</en>
+		<ja>형제로서 당연한 일을 했을 뿐</ja>
+	</talk>
+	<talk sbj="cm7">
+		<en>Well, you have done well in fighting off barbarians</en>
+		<ja>야만인들을 잘 처리해왔어</ja>
+	</talk>
+	<talk sbj="cm8">
+		<en>Yeah, it's a big deal</en>
+		<ja>그래, 이건 대단한 업적이라고</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>Ha ha</en>
+		<ja>하 하</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>Barbarians have learned how strong we are</en>
+		<ja>야만인들은 우리가 얼마나 강한지 알게 됐을테니</ja>
+	</talk>
+	<talk sbj="cm2">
+		<en>So they will never come</en>
+		<ja>이젠 얼씬도 안하겠구만</ja>
+	</talk>
+	<talk sbj="cm3">
+		<en>No, they never discern</en>
+		<ja>아니, 그놈들은 어리석기에</ja>
+	</talk>
+	<talk sbj="cm3">
+		<en>They must come again</en>
+		<ja>분명 또 다시 올거다</ja>
+	</talk>
+	<turn sbj="cm2"/>
+	<talk sbj="cm2">
+		<en>Well, now let's celebrate the return of brothers</en>
+		<ja>뭐, 일단은 형제들이 돌아온 것에 축하를 하자고</ja>
+	</talk>
+	<turn sbj="cm2"/>
+	<talk sbj="cm2">
+		<en>When we get back, let's party!</en>
+		<ja>도착하면, 축제나 열자고!</ja>
+	</talk>
+	<talk sbj="cm5">
+		<en>Huh, that is appreciated</en>
+		<ja>오오, 그것참 고마운 소리인데</ja>
+	</talk>
+	<talk sbj="cm5">
+		<en>My stomach is stupid</en>
+		<ja>마침 배도 고팠어</ja>
+	</talk>
+	<talk sbj="cm1">
+		<en>Well then, let's return to our cave!</en>
+		<ja>좋아, 우리 동굴로 돌아가자고!/ja>
+	</talk>
+	<leave sbj="cm1"/>
+	<leave sbj="cm2"/>
+	<leave sbj="cm3"/>
+	<leave sbj="cm4"/>
+	<leave sbj="cm5"/>
+	<leave sbj="cm6"/>
+	<leave sbj="cm7"/>
+	<leave sbj="cm8"/>
+	<leave sbj="cm9"/>
+	
+	<fadeout time="2500"/>
+</drama>
