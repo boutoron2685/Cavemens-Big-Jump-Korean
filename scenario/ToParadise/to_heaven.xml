@@ -20,7 +20,7 @@
 	</talk>
 	<talk sbj="cm2">
 		<en>I'm glad I came out of the cave</en>
-		<ja>동굴 밖으로 나오니 개운하구만</ja>
+		<ja>동굴 밖으로 나오니 개운하구먼</ja>
 	</talk>
 	<talk sbj="cm3">
 		<en>Hey, let's climb clouds and go up to the sky</en>
@@ -28,7 +28,7 @@
 	</talk>
 	<talk sbj="cm3">
 		<en>I bet we have a good view!</en>
-		<ja>전망이 좋을거 같은데!</ja>
+		<ja>전망이 좋을 거 같은데!</ja>
 	</talk>
 	<turn sbj="cm2"/>
 	<talk sbj="cm4">
@@ -41,7 +41,7 @@
 	</talk>
 	<talk sbj="cm4">
 		<en>Besides, our aim is a new world!</en>
-		<ja>게다가, 우리 목적은 새로운 세상이잖아!</ja>
+		<ja>게다가, 우리 목적은 신세계잖아!</ja>
 	</talk>
 	<talk sbj="cm5">
 		<en>No, it might be a good idea</en>
@@ -50,7 +50,7 @@
 	<turn sbj="cm4"/>
 	<talk sbj="cm5">
 		<en>Sights from the sky would help us find a new world</en>
-		<ja>하늘에 있다면, 새로운 세상을 찾을 수 있어</ja>
+		<ja>하늘에 있다면, 신세계를 한눈에 찾을 수 있어</ja>
 	</talk>
 	<talk sbj="cm1">
 		<en>OK, Let's go!</en>

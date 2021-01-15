@@ -11,11 +11,11 @@
 	<enter sbj="cm5"/>
 	<talk sbj="cm5">
 		<en>Everyone, Terrible thig happened!</en>
-		<ja>모두들, 큰일이다!</ja>
+		<ja>모두, 큰일이다!</ja>
 	</talk>
 	<talk sbj="cm1">
 		<en>Brother, what happened in such a hurry?</en>
-		<ja>왜 그러래, 형제?</ja>
+		<ja>왜 그래, 형제?</ja>
 	</talk>
 	<talk sbj="cm5">
 		<en>Barbarians hit our brothers and took them away!</en>
@@ -27,23 +27,23 @@
 	</talk>
 	<talk sbj="cm2">
 		<en>We can't stay here</en>
-		<ja>이대로 서 있을순 없지</ja>
+		<ja>이대로 가만히 있을 순 없지</ja>
 	</talk>
 	<talk sbj="cm2">
 		<en>We have to go help!</en>
-		<ja>구하러 가야해!</ja>
+		<ja>구하러 가야 해!</ja>
 	</talk>
 	<talk sbj="cm5">
 		<en>Brothers were took away to the cave beyond...</en>
-		<ja>형제들은 초원 너머, 산 너머의</ja>
+		<ja>형제들은 초원 너머, 산 너머...</ja>
 	</talk>
 	<talk sbj="cm5">
 		<en>snowland beyond mountains beyond grassland</en>
-		<ja>설원의 동굴로 끌려간거 같아</ja>
+		<ja>설원 너머 동굴로 끌려간 거 같아</ja>
 	</talk>
 	<talk sbj="cm3">
 		<en>But can five people win the barbarians?</en>
-		<ja>허나, 다섯명 만으로 야만인들을 무찌를 수 있을지...</ja>
+		<ja>다만, 다섯 명으로 야만인들을 무찌를 수 있을지...</ja>
 	</talk>
 	<talk sbj="cm5">
 		<en>Some of my brothers were left behind on the way</en>
@@ -51,7 +51,7 @@
 	</talk>
 	<talk sbj="cm3">
 		<en>You say, if we rescue them, they will help us</en>
-		<ja>그럼 구출한다면, 힘이 되어 준다는 말인거구만</ja>
+		<ja>그럼, 구출하면 힘이 되어 준다는 말인 거구만</ja>
 	</talk>
 	<talk sbj="cm1">
 		<en>Well, then we're headed for rescue!</en>

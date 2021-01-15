@@ -1,6 +1,6 @@
 <scenario lives="6">
 	<title lang="en">To New World!</title>
-	<title lang="ja">새로운 세상으로!</title>
+	<title lang="ja">신세계로!</title>
 	
 	<drama src="opening.xml"/>
 	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
@@ -34,7 +34,7 @@
 	</stage>
 	<stage src="(\#).cbjstg" bgm="moomoo.ogg" vol="192">
 		<title lang="en">\#.Cave of Needles</title>
-		<title lang="ja">\#.바늘투성이 동굴</title>
+		<title lang="ja">\#.가시투성이 동굴</title>
 	</stage>
 	<stage src="(\#).cbjstg" bgm="morning_in_cave.ogg" vol="224">
 		<title lang="en">\#.To Ground!</title>
@@ -63,7 +63,7 @@
 	</stage>
 	<stage src="(\#).cbjstg" bgm="moomoo.ogg" vol="192">
 		<title lang="en">\#.Cave of Stray</title>
-		<title lang="ja">\#.동굴미아</title>
+		<title lang="ja">\#.미궁의 동굴</title>
 	</stage>
 	<stage src="(\#).cbjstg" bgm="moomoo.ogg" vol="192">
 		<title lang="en">\#.Cave of Ordeal</title>
@@ -72,15 +72,15 @@
 	<drama src="to_village.xml"/>
 	<stage src="(\#).cbjstg" bgm="sunset_story.ogg" vol="192">
 		<title lang="en">\#.Welcome to Barbarian Country</title>
-		<title lang="ja">\#.야만인의 나라에 온걸 환영합니다</title>
+		<title lang="ja">\#.어서와 야만인 고향에</title>
 	</stage>
 	<stage src="(\#).cbjstg" bgm="game_image40.ogg" vol="192">
 		<title lang="en">\#.Assault! Barbarian Village</title>
-		<title lang="ja">\#.돌격! 야만인의 마을</title>
+		<title lang="ja">\#.돌격! 야만인 마을</title>
 	</stage>
 	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
 		<title lang="en">\#.Immortal Barbarian Castle</title>
-		<title lang="ja">\#.난공불락 야만인의 성</title>
+		<title lang="ja">\#.난공불락 야만인 성</title>
 	</stage>
 	<drama src="to_mt_shikabane.xml"/>
 	<stage src="(\#).cbjstg" bgm="sunset_story.ogg" vol="192">
@@ -89,7 +89,7 @@
 	</stage>
 	<stage src="(\#).cbjstg" bgm="morning_in_cave.ogg" vol="224" id="shikabane">
 		<title lang="en">\#.Beyond Mt.Shikabane</title>
-		<title lang="ja">\#.시카바네산을 넘어</title>
+		<title lang="ja">\#.시체의 산을 넘어</title>
 		<goal type="black" next="shikabane"/>
 	</stage>
 	<stage src="to_heaven.cbjstg" bgm="aerial_walk.ogg" vol="192">

@@ -16,7 +16,7 @@
 	</talk>
 	<talk sbj="cm1">
 		<en>It seems this is barbarian's homeland</en>
-		<ja>아무래도 여기 야만인 본거지인거 같다</ja>
+		<ja>아무래도 여기 야만인 본거지인 거 같다</ja>
 	</talk>
 	<talk sbj="cm4">
 		<en>What!</en>
@@ -27,11 +27,11 @@
 	<turn sbj="cm3"/>
 	<talk sbj="cm4">
 		<en>How many brothers they killed!</en>
-		<ja>그놈들이 얼마나 많은 형제를 죽인거지!</ja>
+		<ja>그놈들이 얼마나 많은 형제를 죽인 거지!</ja>
 	</talk>
 	<talk sbj="cm4">
 		<en>I will eradicate them!</en>
-		<ja>뿌리뽑고 말겠다!</ja>
+		<ja>뿌리 뽑고 말겠다!</ja>
 	</talk>
 	<talk sbj="cm3">
 		<en>Calm down</en>
@@ -43,7 +43,7 @@
 	</talk>
 	<talk sbj="cm5">
 		<en>Anyway, we can't avoid here</en>
-		<ja>그렇다고, 이 곳을 피해갈 순 없겠지</ja>
+		<ja>그렇다고, 이곳을 피해갈 순 없겠지</ja>
 	</talk>
 	<talk sbj="cm1">
 		<en>OK, break through the enemy!</en>

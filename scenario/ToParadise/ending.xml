@@ -16,7 +16,7 @@
 	</talk>
 	<talk sbj="cm1">
 		<en>There's a ground in the sky!</en>
-		<ja>하늘에 대지가 서있다니!</ja>
+		<ja>하늘에 대지가 서 있다니!</ja>
 	</talk>
 	<turn sbj="cm1"/>
 	<talk sbj="cm1">
@@ -29,11 +29,11 @@
 	</talk>
 	<talk sbj="cm2">
 		<en>You think this is our new world</en>
-		<ja>여기가 우리의 새로운 세상이란 거겠지</ja>
+		<ja>여기가 우리의 새로운 세상인 거잖아</ja>
 	</talk>
 	<talk sbj="cm1">
 		<en>Yes it is</en>
-		<ja>그래</ja>
+		<ja>맞아</ja>
 	</talk>
 	<talk sbj="cm4">
 		<en>I disagree!</en>
@@ -41,7 +41,7 @@
 	</talk>
 	<talk sbj="cm4">
 		<en>I feel breathless here and I'm afraid of heights!</en>
-		<ja>여긴 숨쉬기도 힘들고, 난 고소공포증있다고!</ja>
+		<ja>여긴 숨쉬기도 힘들고, 게다가 난 고소공포증이라고!</ja>
 	</talk>
 	<talk sbj="cm3">
 		<en>I agree with the suggestion</en>
@@ -54,7 +54,7 @@
 	<turn sbj="cm4"/>
 	<talk sbj="cm5">
 		<en>I like the view</en>
-		<ja>여기 경치가 마음에 드네</ja>
+		<ja>여기 경치가 마음에 드는걸</ja>
 	</talk>
 	<talk sbj="cm6">
 		<en>I ate the cloud and it was delicious</en>
@@ -63,11 +63,11 @@
 	<turn sbj="cm4"/>
 	<talk sbj="cm4">
 		<en>Then... I agree with you</en>
-		<ja>그럼...나도 찬성해야겠구만</ja>
+		<ja>그럼...나도 찬성해야 하나</ja>
 	</talk>
 	<talk sbj="cm1">
 		<en>This case was sewn up</en>
-		<ja>결정났군</ja>
+		<ja>결정이 났군</ja>
 	</talk>
 	<talk sbj="cm1">
 		<en>This is our new world!</en>

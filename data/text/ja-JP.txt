@@ -41,8 +41,8 @@ PAD3, 게임패드3
 PAD4, 게임패드4
 RESETUP_PAD, 패드 재인식
 BACK, 뒤로
-KEY_CHECK_DESC1, "키보드 키는 동시에 누르는 조합에 따라, 올바르게 인식이 안될 수 있습니다."
-KEY_CHECK_DESC2, "여기서 동시에 누를 수 있느 조합을 확인해, 어떤 키에 할당할지 참고해 주십시오."
+KEY_CHECK_DESC1, "키보드 키는 동시에 누르는 조합에 따라, 올바르게 인식이 안 될 수 있습니다."
+KEY_CHECK_DESC2, "여기서 동시에 누를 수 있는 조합을 확인해, 어떤 키에 할당할지 참고해 주십시오."
 KEY_CHECK_DESC3, (마우스 우클릭으로 종료)
 KEY_CHECK_PUSHED, {key_name}키 입력됨
 CTRLR_CONF_HOW_TO_CANCEL, 취소하려면 마우스 우클릭
@@ -82,7 +82,7 @@ MAP_WIDTH_TOO_SMALL, 맵의 폭이 너무 작습니다!
 MAP_EVENT_TOO_MANY, 배치된 캐릭터의 할당량을 초과했습니다!
 START_POS_NOT_SET, 시작지점이 지정되지 않았습니다!
 GOAL_NOT_SET, 도착지점이 지정되지 않았습니다!
-CANT_REACH_GOAL_FOR_ENEMY, 적이 가까이 있습니다! 5초뒤에 다시 오세요!
+CANT_REACH_GOAL_FOR_ENEMY, 적이 가까이 있습니다! 나중에 다시 오세요!
 ENEMY_ZONE_TOO_MANY, 지정된 적 구역이 너무 많습니다!
 DRAMA_OVER_MSG_MAX, 대사 글자수가 초과했습니다
 CANT_FIND_DRAMA_TAG, <drama>을 찾을 수 없습니다
