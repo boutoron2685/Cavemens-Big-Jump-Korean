@@ -1,7 +1,7 @@
 # Cavemen's Big Jump 한국어 패치
 ![메인](0.png)   
 [다른 스크린샷 보기](screenshot.md)   
-Cavemen's Big Jump 한국어 패치입니다.   
+Cavemen's Big Jump 한국어 패치입니다. By 간케
    
 개발자 트위터: [일본어](https://twitter.com/kyokz_jp) / [영어](https://twitter.com/kyokz_en)
 
