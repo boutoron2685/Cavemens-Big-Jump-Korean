@@ -1,5 +1,5 @@
 # Cavemen's Big Jump 한국어 패치
-![스크린샷1](1.png)   
+![메인](0.png)   
 [다른 스크린샷 보기](screenshot.md)   
 Cavemen's Big Jump 한국어 패치입니다.   
    
