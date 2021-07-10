@@ -1,6 +1,6 @@
 <scenario lives="6">
 	<title lang="en">To New World!</title>
-	<title lang="ja">신세계로!</title>
+	<title lang="ja">신세계로!(본편)</title>
 	
 	<drama src="opening.xml"/>
 	<stage src="(\#).cbjstg" bgm="jungle_jungle.ogg" vol="192">
